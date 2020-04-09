@@ -2,15 +2,15 @@
   url: /education.html
 - title: Research
   url: /research/research.html
-  sublinks:
-    - title: Presentations
-    url: /research/presentations.html
-    - title: Papers
-    url: /research/papers.html
+  # sublinks:
+  #   - title: Presentations
+  #   url: /research/presentations.html
+  #   - title: Papers
+  #   url: /research/papers.html
 - title: Documents
   url: /documents.html
-  sublinks:
-    - title: CV
-    url: /documents/CV.html
+  # sublinks:
+  #   - title: CV
+  #   url: /documents/CV.html
 - title: Teaching
   url: /teaching.html
