@@ -1,11 +1,10 @@
 ---
-title: Homepage
-layout: default
+title: Home
+layout: page
 permalink: /index.html
 header-img: "/images/image_banner.jpg"
 ---
 # Julian Liber
-![index_banner](images/index_banner.jpg){:class="img-responsive"}
 
 ### Welcome to Julian Liber's personal website
 
