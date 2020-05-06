@@ -33,5 +33,15 @@ Collaborators: Dr. Natalie Vande Pol, Natalie Golematis, Audrey Peiker, Abigail 
 ## Automated phenotyping of filamentous fungi
 <video src="/images/tip_tracking_vid.mp4" poster="/images/tip_tracking_poster.jpg" width="600" controls preload></video>
 
-Filamentous fungi are difficult organisms to phenotype, because of the small number of characters which are easily observed. In order to characterize the diversity of groups such as Mortierellaceae. We developed a [TensorFlow](https://www.tensorflow.org/)-based object detection model trained on a manually-curated set of hyphal tip images. This model is accompanied by tools to annotate time-lapse image series and produce
+Filamentous fungi are difficult organisms to phenotype, because of the small number of characters which are easily observed. In order to characterize the diversity of groups such as Mortierellaceae. We developed a [TensorFlow](https://www.tensorflow.org/)-based object detection model trained on a manually-curated set of hyphal tip images. This model is accompanied by tools to annotate time-lapse image series infer growth rate by connecting nearest-neighbor annotations between consecutive images.
+
+Tool Github and Tutorial: [https://github.com/liberjul/Hyphal_feature_tracking](https://github.com/liberjul/Hyphal_feature_tracking)
+
+Collaborators: Natalie Golematis, Audrey Peiker
+
 ## Algal-fungal co-culture and flocculation
+<img src="/images/Algae_010.jpg" alt="Wild algae captured in Mortierella hyphae" width="600"/>
+
+Microalgae are highly productive photosynthetic organisms which have the potential to make valuable products for food, energy, and other industries. Some species of microalgae adhere to Mortierella hyphae which may be [exploited for harvesting microalgae](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-018-1172-2). We are working to undercover mechanisms of this interaction.
+
+Collaborators: Dr. Zhi-Yan Du, Conor Bertucci
