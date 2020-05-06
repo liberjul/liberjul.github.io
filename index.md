@@ -1,10 +1,8 @@
 ---
 title: Home
-layout: page
+layout: home
 permalink: /index.html
-header-img: "/images/image_banner.jpg"
 ---
-# Julian Liber
 
 ### Welcome to Julian Liber's personal website
 
