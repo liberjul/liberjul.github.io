@@ -3,6 +3,7 @@ title: Home
 layout: home
 permalink: /index.html
 ---
+![Northwest Ohio prairie in mid August](/images/prairie.jpg)
 
 ### Welcome to Julian Liber's personal website
 
