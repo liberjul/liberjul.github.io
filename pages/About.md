@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: about/
 ---
+![Picture of Julian in a tree](/images/Julian_pic.jpg)
 
 <b>I am interesting in exploring the world of microbes and how they impact plants, in order to improve the productivity and sustainability of agriculture and industry, and understand the diversity of life.</b>
 
