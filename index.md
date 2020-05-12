@@ -13,7 +13,7 @@ Who am I and what are my interests
 ## [Publications](./publications/)
 Check out my publications
 
-## [CV](./CV/)
+## [CV](./CV_043020/)
 Read my CV
 
 ## [Projects](./projects/)
