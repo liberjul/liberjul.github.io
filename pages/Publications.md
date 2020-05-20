@@ -7,9 +7,9 @@ permalink: publications/
 
 ## Papers
 
-- Aime MC, Urbina H, Liber JA, Bonito G, and Oono R (2018). [Two new endophytic Atractiellomycetes, <i>Atractidochium hillariae</i> and <i>Proceropycnis hameedii</i>.](https://www.tandfonline.com/doi/abs/10.1080/00275514.2018.1446650) Mycologia. 110(1): 136146
+- Aime MC, Urbina H, Liber JA, Bonito G, and Oono R (2018). [Two new endophytic Atractiellomycetes, <i>Atractidochium hillariae</i> and <i>Proceropycnis hameedii</i>.](https://www.tandfonline.com/doi/abs/10.1080/00275514.2018.1446650) Mycologia. 110(1): 136146 [PDF](/pdfs/Two new endophytic Atractiellomycetes Atractidochium hillariae and Proceropycnis hameedii.pdf)
 
-- Desirò A, Hao Z, Liber JA, Benucci GM, Lowry D, Roberson R, Bonito G. (2018) [<i>Mycoplasma</i>-related endobacteria within Mortierellomycotina fungi: diversity, distribution and functional insights into their lifestyle.](https://www.nature.com/articles/s41396-018-0053-9) The ISME journal. 12(7): 1743-1757.
+- Desirò A, Hao Z, Liber JA, Benucci GM, Lowry D, Roberson R, Bonito G. (2018) [<i>Mycoplasma</i>-related endobacteria within Mortierellomycotina fungi: diversity, distribution and functional insights into their lifestyle.](https://www.nature.com/articles/s41396-018-0053-9) The ISME journal. 12(7): 1743-1757. [PDF](/pdfs/Mycoplasma-related endobacteria within Mortierellamycotina fungi diversity distribution and functional insights into their lifestyle.pdf)
 
 ## Presentations
 - Liber JA, Bonito G (2019) [Do fungal endophytes facilitate colonization of bacterial endophytes in <i>Brachypodium distachyon</i>? Mycological Society of America.](/pdfs/Julian_MSA2019_poster.pdf) University of Minnesota, Minneapolis, Minnesota, Aug. 13, 2019. Poster presentation.
