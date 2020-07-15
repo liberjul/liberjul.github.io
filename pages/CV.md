@@ -5,7 +5,7 @@ permalink: cv/
 ---
 PDF CV available [here](/pdfs/CV_Liber_Julian_long_071520.pdf).
 
-Revised June 1, 2020
+Revised July 15, 2020
 
 **Julian A. Liber**
 
