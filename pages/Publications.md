@@ -11,9 +11,9 @@ permalink: publications/
 
 - **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) Harvesting microalgae for food and energy products. Small Methods. *In Press*.
 
-- Vandepol N, **Liber JA**, Matlock J, Bonito, G. (2020) *Mortierella elongata* stimulates aerial growth, seed production, and responses to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. Molecular Plant Microbe Interactions. *Submitted*.
+- Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2020) *Mortierella elongata* stimulates aerial growth, seed production, and responses to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. Molecular Plant Microbe Interactions. *Submitted*.
 
-- Vandepol N, **Liber JA**, Desirò A, Na H, Kennedy M, Barry K, Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020) Resolving the Mortierellaceae phylogeny through synthesis of Multi-Locus Sequence Typing (MLST) and phylogenomics. Fungal Diversity. *Under Review*.
+- Vande Pol N, **Liber JA**, Desirò A, Na H, Kennedy M, Barry K, Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020) Resolving the Mortierellaceae phylogeny through synthesis of Multi-Locus Sequence Typing (MLST) and phylogenomics. Fungal Diversity. *Under Review*.
 
 
 - Aime MC, Urbina H, **Liber JA**, Bonito G, and Oono R. (2018) [Two new endophytic Atractiellomycetes, <i>Atractidochium hillariae</i> and <i>Proceropycnis hameedii</i>.](https://www.tandfonline.com/doi/abs/10.1080/00275514.2018.1446650) Mycologia. 110(1): 136146 [PDF](/pdfs/Two new endophytic Atractiellomycetes Atractidochium hillariae and Proceropycnis hameedii.pdf)
