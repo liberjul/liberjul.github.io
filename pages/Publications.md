@@ -25,7 +25,7 @@ permalink: publications/
 
 - **Liber JA**. (2019) Co-inoculation effects of bacterial and fungal endophytes in <i>Brachypodium distachyon</i>. University Undergraduate Research and Arts Forum. Michigan State University, East Lansing, Michigan, Apr. 5, 2019. Oral presentation.
 
-- **Liber JA**, Lee J, Uhelski E, Del Rose A, Schultz J, Viola S, Gate C, and Caldwell S. (2018). [Transformation of endophyte Enterobacter ludwigii with ACC deaminase related to ethylene stress response. iGEM Giant Jamboree.](/pdfs/2018_iGEM_Jamboree_Poster_UPDATED_Liber.pdf) Hynes Convention Center, Boston, Massachusetts, Oct. 25, 2018. Poster and oral presentation.
+- **Liber JA**, Lee J, Uhelski E, Del Rose A, Schultz J, Viola S, Gate C, and Caldwell S. (2018). [Transformation of endophyte <i>Enterobacter ludwigii</i> with ACC deaminase related to ethylene stress response. iGEM Giant Jamboree.](/pdfs/2018_iGEM_Jamboree_Poster_UPDATED_Liber.pdf) Hynes Convention Center, Boston, Massachusetts, Oct. 25, 2018. Poster and oral presentation.
 
 - **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G. (2018). [Use of hyphal image analysis and machine learning to classify Mucoromycota soil fungal isolates. International Mycological Congress.](/pdfs/IMC11_Poster_Liber.pdf) San Juan Convention Center, San Juan, Puerto Rico, July 20, 2018. Poster presentation.
 
