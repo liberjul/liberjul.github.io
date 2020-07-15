@@ -3,7 +3,7 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_060120.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_071520.pdf).
 
 Revised June 1, 2020
 
@@ -165,58 +165,58 @@ and plant anatomy.
 
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
 -   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
-    Longley R, Bonito G (2020) Leaf litter fungal communities reflect
+    Longley R, Bonito G. (2020) Leaf litter fungal communities reflect
     pre-senescent leaf communities in a temperate forest ecosystem.
     Fungal Ecology. *Submitted*.
 
--   **Liber JA**, Bryson A, Bonito, G, Du Z (2020) Harvesting microalgae
+-   **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) Harvesting microalgae
     for food and energy products. Small Methods. *In Revision*.
 
--   Vandepol N, Liber JA, Matlock J, Bonito, G (2020) *Mortierella
+-   Vandepol N, Liber JA, Matlock J, Bonito, G. (2020) *Mortierella
     elongata* stimulates aerial growth, seed production, and responses
     to auxin, ethylene, and reactive oxygen species in *Arabidopsis
     thaliana*. Molecular Plant Microbe Interactions. *Submitted*.
 
 -   Vandepol N, **Liber JA**, Desirò A, Na H, Kennedy M, Barry K,
-    Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G (2020)
+    Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020)
     Resolving the Mortierellaceae phylogeny through synthesis of
     Multi-Locus Sequence Typing (MLST) and phylogenomics. Fungal
     Diversity. *In Revision*.
 
--   **Liber JA**, Bonito G (2019) Do fungal endophytes facilitate
+-   **Liber JA**, Bonito G. (2019) Do fungal endophytes facilitate
     colonization of bacterial endophytes in *Brachypodium distachyon*?
     Mycological Society of America. University of Minnesota,
     Minneapolis, Minnesota, Aug. 13, 2019. Poster presentation.
 
--   **Liber JA** (2019) Co-inoculation effects of bacterial and fungal
+-   **Liber JA**. (2019) Co-inoculation effects of bacterial and fungal
     endophytes in Brachypodium distachyon. University Undergraduate
     Research and Arts Forum. Michigan State University, East Lansing,
     Michigan, Apr. 5, 2019. Oral presentation.
 
--   **Liber JA**, Brauer-Delaney B (2018). Julian Liber: Undergrad
+-   **Liber JA**, Brauer-Delaney B. (2018) Julian Liber: Undergrad
     research opportunities. MSU Today Student Views. Dec. 5, 2018.
 
--   **Liber JA**, Houwat I (2018). MSU team wins bronze at 2018
+-   **Liber JA**, Houwat I. (2018) MSU team wins bronze at 2018
     synthetic biology competition. Michigan State University, Molecular
     Plant Sciences News. Nov. 27, 2018.
 
 -   **Liber JA**, Lee J, Uhelski E, Del Rose A, Schultz J, Viola S, Gate
-    C, and Caldwell S (2018). Transformation of endophyte *Enterobacter
+    C, and Caldwell S. (2018) Transformation of endophyte *Enterobacter
     ludwigii* with ACC deaminase related to ethylene stress response.
     iGEM Giant Jamboree. Hynes Convention Center, Boston, Massachusetts,
     Oct. 25, 2018. Poster and oral presentation.
 
--   **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G (2018).
+-   **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G. (2018)
     Use of hyphal image analysis and machine learning to classify
     Mucoromycota soil fungal isolates. International Mycological
     Congress. San Juan Convention Center, San Juan, Puerto Rico, July
     20, 2018. Poster presentation.
 
--   Aime MC, Urbina H, **Liber JA**, Bonito G, and Oono R (2018). Two
+-   Aime MC, Urbina H, **Liber JA**, Bonito G, and Oono R. (2018) Two
     new endophytic Atractiellomycetes, *Atractidochium hillariae* and
     *Proceropycnis hameedii*. Mycologia*.* 110(1): 136-146
 
--   **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G (2018).
+-   **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G. (2018)
     Use of hyphal image analysis and machine learning to classify
     Mucoromycota soil fungal isolates. University Undergraduate Research
     and Arts Forum. Michigan State University, East Lansing, Michigan
@@ -228,7 +228,7 @@ and plant anatomy.
     insights into their lifestyle. The ISME journal. 12(7): 1743-1757.
 
 -   Hussien A, Olson E, Brisco E, West H, Javaid T, **Liber JA**, and
-    Sticklen M (2016). Overactivation of two wheat native genes in wheat
+    Sticklen M. (2016) Overactivation of two wheat native genes in wheat
     genome confers resistance to FHB pathogen inoculations. Scab
     Symposium, Genes Discovery and Engineering Chapter. Hyatt Regency at
     the Arch. St. Louis, Missouri, Dec. 4-6, 2016. Poster presentation.
