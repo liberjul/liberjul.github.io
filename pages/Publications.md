@@ -9,7 +9,7 @@ permalink: publications/
 
 - **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2020) Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem. Fungal Ecology. *Under Review*.
 
-- **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) Harvesting microalgae for food and energy products. Small Methods. *In Press*.
+- **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) [Harvesting microalgae for food and energy products](https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202000349). Small Methods. 2020(2000349): 1-16. [PDF](/pdfs/smtd.202000349.pdf)
 
 - Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2020) *Mortierella elongata* stimulates aerial growth, seed production, and responses to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. Molecular Plant Microbe Interactions. *Submitted*.
 

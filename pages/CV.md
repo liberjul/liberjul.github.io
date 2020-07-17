@@ -3,7 +3,7 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_071520.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_071720.pdf).
 
 Revised July 15, 2020
 
@@ -170,7 +170,7 @@ and plant anatomy.
     Fungal Ecology. *Submitted*.
 
 -   **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) Harvesting microalgae
-    for food and energy products. Small Methods. *In Revision*.
+    for food and energy products. Small Methods. 2020(2000349): 1-16.
 
 -   Vande Pol N, Liber JA, Matlock J, Bonito, G. (2020) *Mortierella
     elongata* stimulates aerial growth, seed production, and responses
@@ -214,7 +214,7 @@ and plant anatomy.
 
 -   Aime MC, Urbina H, **Liber JA**, Bonito G, and Oono R. (2018) Two
     new endophytic Atractiellomycetes, *Atractidochium hillariae* and
-    *Proceropycnis hameedii*. Mycologia*.* 110(1): 136-146
+    *Proceropycnis hameedii*. Mycologia. 110(1): 136-146.
 
 -   **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G. (2018)
     Use of hyphal image analysis and machine learning to classify
