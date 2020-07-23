@@ -186,7 +186,7 @@ and plant anatomy.
     Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020)
     Resolving the Mortierellaceae phylogeny through synthesis of
     Multi-Locus Sequence Typing (MLST) and phylogenomics. Fungal
-    Diversity. *Under Review*.
+    Diversity. *In Revision*.
 
 -   **Liber JA**, Bonito G. (2019) Do fungal endophytes facilitate
     colonization of bacterial endophytes in *Brachypodium distachyon*?
