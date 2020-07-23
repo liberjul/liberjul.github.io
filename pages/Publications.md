@@ -21,6 +21,8 @@ permalink: publications/
 - Desirò A, Hao Z, **Liber JA**, Benucci GM, Lowry D, Roberson R, Bonito G. (2018) [<i>Mycoplasma</i>-related endobacteria within Mortierellomycotina fungi: diversity, distribution and functional insights into their lifestyle.](https://www.nature.com/articles/s41396-018-0053-9) The ISME journal. 12(7): 1743-1757. [PDF](/pdfs/Mycoplasma-related endobacteria within Mortierellamycotina fungi diversity distribution and functional insights into their lifestyle.pdf)
 
 ## Presentations
+-   **Liber JA**, Golematis N, Cole E, Malmstrom C, Bonito G. (2019) [Four-way interactions in the plant holobiont: How does plant viral disease alter fungal and bacterial community assembly?](/pdfs/MSA_poster_2020.pdf) Mycological Society of America. Virtual, July. 22, 2020. Poster presentation.
+
 - **Liber JA**, Bonito G. (2019) [Do fungal endophytes facilitate colonization of bacterial endophytes in <i>Brachypodium distachyon</i>? Mycological Society of America.](/pdfs/Julian_MSA2019_poster.pdf) University of Minnesota, Minneapolis, Minnesota, Aug. 13, 2019. Poster presentation.
 
 - **Liber JA**. (2019) Co-inoculation effects of bacterial and fungal endophytes in <i>Brachypodium distachyon</i>. University Undergraduate Research and Arts Forum. Michigan State University, East Lansing, Michigan, Apr. 5, 2019. Oral presentation.
