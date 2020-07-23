@@ -3,7 +3,7 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_071720.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_072320.pdf).
 
 Revised July 15, 2020
 
@@ -164,10 +164,15 @@ Hands-on activities exploring plant diversity, microbiomes, evolution,
 and plant anatomy.
 
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
+-   **Liber JA**, Golematis N, Cole E, Malmstrom C, Bonito G. (2019)
+    Four-way interactions in the plant holobiont: How does plant viral
+    disease alter fungal and bacterial community assembly? Mycological
+    Society of America. Virtual, July. 22, 2020. Poster presentation.
+
 -   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
     Longley R, Bonito G. (2020) Leaf litter fungal communities reflect
     pre-senescent leaf communities in a temperate forest ecosystem.
-    Fungal Ecology. *Submitted*.
+    Fungal Ecology. *Under Review*.
 
 -   **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) Harvesting microalgae
     for food and energy products. Small Methods. 2020(2000349): 1-16.
@@ -181,7 +186,7 @@ and plant anatomy.
     Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020)
     Resolving the Mortierellaceae phylogeny through synthesis of
     Multi-Locus Sequence Typing (MLST) and phylogenomics. Fungal
-    Diversity. *In Revision*.
+    Diversity. *Under Review*.
 
 -   **Liber JA**, Bonito G. (2019) Do fungal endophytes facilitate
     colonization of bacterial endophytes in *Brachypodium distachyon*?
