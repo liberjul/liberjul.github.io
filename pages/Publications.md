@@ -23,15 +23,15 @@ permalink: publications/
 ## Presentations
 -   **Liber JA**, Golematis N, Cole E, Malmstrom C, Bonito G. (2019) [Four-way interactions in the plant holobiont: How does plant viral disease alter fungal and bacterial community assembly?](/pdfs/MSA_poster_2020.pdf) Mycological Society of America. Virtual, July. 22, 2020. Poster presentation.
 
-- **Liber JA**, Bonito G. (2019) [Do fungal endophytes facilitate colonization of bacterial endophytes in <i>Brachypodium distachyon</i>? Mycological Society of America.](/pdfs/Julian_MSA2019_poster.pdf) University of Minnesota, Minneapolis, Minnesota, Aug. 13, 2019. Poster presentation.
+- **Liber JA**, Bonito G. (2019) [Do fungal endophytes facilitate colonization of bacterial endophytes in <i>Brachypodium distachyon</i>?](/pdfs/Julian_MSA2019_poster.pdf) Mycological Society of America. University of Minnesota, Minneapolis, Minnesota, Aug. 13, 2019. Poster presentation.
 
 - **Liber JA**. (2019) Co-inoculation effects of bacterial and fungal endophytes in <i>Brachypodium distachyon</i>. University Undergraduate Research and Arts Forum. Michigan State University, East Lansing, Michigan, Apr. 5, 2019. Oral presentation.
 
-- **Liber JA**, Lee J, Uhelski E, Del Rose A, Schultz J, Viola S, Gate C, and Caldwell S. (2018). [Transformation of endophyte <i>Enterobacter ludwigii</i> with ACC deaminase related to ethylene stress response. iGEM Giant Jamboree.](/pdfs/2018_iGEM_Jamboree_Poster_UPDATED_Liber.pdf) Hynes Convention Center, Boston, Massachusetts, Oct. 25, 2018. Poster and oral presentation.
+- **Liber JA**, Lee J, Uhelski E, Del Rose A, Schultz J, Viola S, Gate C, and Caldwell S. (2018). [Transformation of endophyte <i>Enterobacter ludwigii</i> with ACC deaminase related to ethylene stress response.](/pdfs/2018_iGEM_Jamboree_Poster_UPDATED_Liber.pdf) iGEM Giant Jamboree. Hynes Convention Center, Boston, Massachusetts, Oct. 25, 2018. Poster and oral presentation.
 
-- **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G. (2018). [Use of hyphal image analysis and machine learning to classify Mucoromycota soil fungal isolates. International Mycological Congress.](/pdfs/IMC11_Poster_Liber.pdf) San Juan Convention Center, San Juan, Puerto Rico, July 20, 2018. Poster presentation.
+- **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G. (2018). [Use of hyphal image analysis and machine learning to classify Mucoromycota soil fungal isolates.](/pdfs/IMC11_Poster_Liber.pdf) International Mycological Congress. San Juan Convention Center, San Juan, Puerto Rico, July 20, 2018. Poster presentation.
 
-- **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G. (2018). [Use of hyphal image analysis and machine learning to classify Mucoromycota soil fungal isolates. University Undergraduate Research and Arts Forum.](/pdfs/UURAF18_Poster.pdf) Michigan State University, East Lansing, Michigan Apr. 13, 2018. Poster presentation.
+- **Liber JA**, Gall E, Vande Pol N, Silvia D, and Bonito G. (2018). [Use of hyphal image analysis and machine learning to classify Mucoromycota soil fungal isolates.](/pdfs/UURAF18_Poster.pdf) University Undergraduate Research and Arts Forum. Michigan State University, East Lansing, Michigan Apr. 13, 2018. Poster presentation.
 
 ## Press
 
