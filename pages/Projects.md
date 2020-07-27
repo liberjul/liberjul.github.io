@@ -13,7 +13,7 @@ Collaborators: Natalie Golematis, Dr. Carolyn Malmstrom, Ellen Cole
 ## Nematode vectoring of fungal endobacteria
 <img src="/images/Aphe_avenae_100x.jpg" alt="Aphelenchus avenae on Mortierella hyphae" width="400"/>
 
-Fungal endobacteria of the genus <i>Mycoavidus</i> show evidence of horizontal transfer between fungal lineages. However, the mechanism of this transmission is unknown. Fungivores in soil, such as nematodes may be a vector for these endobacteria. So far, we have detected enrichment of endobacterial DNA relative to fungal nuclear DNA in surface sterilized nematodes, compared to fungal tissue. Future work will include visualizing ingested endobacteria and testing transmission via feeding.
+Fungal endobacteria of the genus <i>Mycoavidus</i> show evidence of horizontal transfer between fungal lineages. However, the mechanism of this transmission is unknown. Fungivores in soil, such as <i>Aphelenchus</i> nematodes, may be a vector for these endobacteria. So far, we have detected enrichment of endobacterial DNA relative to fungal nuclear DNA in surface sterilized nematodes, compared to fungal tissue. Future work will include visualizing ingested endobacteria and testing transmission via feeding.
 
 Collaborators: Natalie Golematis
 
