@@ -10,6 +10,11 @@ Bacteria and fungi occupy tissues of plants and can affect phenotypes of their h
 
 Collaborators: Natalie Golematis, Dr. Carolyn Malmstrom, Ellen Cole
 
+## Nematode vectoring of fungal endobacteria
+<img src="/images/Aphe_avenae_100x.jpg" alt="Aphelenchus avenae on Mortierella hyphae" width="400"/>
+
+Fungal endobacteria of the genus <i>Mycoavidus<\i> show evidence of horizontal transfer between fungal lineages. However, the mechanism of this transmission is unknown. Fungivores in soil, such as nematodes may be a vector for these endobacteria. So far, we have detected enrichment of endobacterial DNA relative to fungal nuclear DNA in surface sterilized nematodes, compared to fungal tissue. Future work will include visualizing ingested endobacteria and testing transmission via feeding.
+
 ## Fungal communities of leaf litter
 ![Barchart of the relative makeup of fungal communities by genus](/images/top30_genera_gg_constax.png)
 Decomposition of leaf litter in forest ecosystems largely depends on fungi and is a critical process in the terrestrial carbon cycle. Fungi also live in soil and the tree phyllosphere, but the relative contribution of these communities to the leaf litter is unknown. We used ITS amplicon sequencing to characterize and compare fungal communities in leaf litter, soil, leaf surfaces (epiphytes), and leaf internal tissues (endophytes).
