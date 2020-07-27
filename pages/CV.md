@@ -3,7 +3,7 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_072320.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_072720.pdf).
 
 Revised July 15, 2020
 
@@ -164,7 +164,7 @@ Hands-on activities exploring plant diversity, microbiomes, evolution,
 and plant anatomy.
 
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
--   **Liber JA**, Golematis N, Cole E, Malmstrom C, Bonito G. (2019)
+-   **Liber JA**, Golematis N, Cole E, Malmstrom C, Bonito G. (2020)
     Four-way interactions in the plant holobiont: How does plant viral
     disease alter fungal and bacterial community assembly? Mycological
     Society of America. Virtual, July. 22, 2020. Poster presentation.
@@ -186,7 +186,7 @@ and plant anatomy.
     Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020)
     Resolving the Mortierellaceae phylogeny through synthesis of
     Multi-Locus Sequence Typing (MLST) and phylogenomics. Fungal
-    Diversity. *In Revision*.
+    Diversity. *In Press*.
 
 -   **Liber JA**, Bonito G. (2019) Do fungal endophytes facilitate
     colonization of bacterial endophytes in *Brachypodium distachyon*?
