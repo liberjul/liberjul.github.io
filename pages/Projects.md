@@ -40,7 +40,7 @@ Collaborators: Dr. Natalie Vande Pol, Natalie Golematis, Audrey Peiker, Abigail 
 ## Automated phenotyping of filamentous fungi
 <video src="/images/tip_tracking_vid.mp4" poster="/images/tip_tracking_poster.jpg" width="600" controls preload></video>
 
-Filamentous fungi are difficult organisms to phenotype, because of the small number of characters which are easily observed. In order to characterize the diversity of groups such as Mortierellaceae. We developed a [TensorFlow](https://www.tensorflow.org/)-based object detection model trained on a manually-curated set of hyphal tip images. This model is accompanied by tools to annotate time-lapse image series infer growth rate by connecting nearest-neighbor annotations between consecutive images.
+Filamentous fungi are difficult organisms to phenotype, because of the small number of characters which are easily observed. In order to characterize the diversity of groups such as Mortierellaceae, we developed a [TensorFlow](https://www.tensorflow.org/)-based object detection model trained on a manually-curated set of hyphal tip images. This model is accompanied by tools to annotate time-lapse image series infer growth rate by connecting nearest-neighbor annotations between consecutive images.
 
 Tool Github and Tutorial: [https://github.com/liberjul/Hyphal_feature_tracking](https://github.com/liberjul/Hyphal_feature_tracking)
 
