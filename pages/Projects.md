@@ -18,7 +18,7 @@ Fungal endobacteria of the genus <i>Mycoavidus</i> show evidence of horizontal t
 Collaborators: Natalie Golematis
 
 ## CONSTAXv2: Consensus-based taxonomy assignment for metagenomics
-<img src="/images/region_classification_part_cv.png" alt="Classification performance of CONSTAXv2 classifier" width="800"/>
+![Classification performance of CONSTAXv2 classifier](/images/region_classification_part_cv.png)
 
 With increasing popularity of metagenomics barcoding studies, researchers require high-throughput taxonomic assignment tools to identify taxa or OTUs from NGS reads. CONSTAXv2 implements a consensus approach, using multiple classifiers (SINTAX, RDP, and UTAX or BLAST) to improve performance. Version 2 implements a new BLAST classification approach, with updated software requirements, an easier-to-use implementation, and SILVA database compatibility.
 
