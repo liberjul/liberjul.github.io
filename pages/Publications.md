@@ -7,13 +7,13 @@ permalink: publications/
 
 ## Papers
 
-- **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2020) Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem. Fungal Ecology. *Under Review*.
+- **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2020) Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem. *Revision prior to resubmission*.
 
 - **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) [Harvesting microalgae for food and energy products](https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202000349). Small Methods. 2020(2000349): 1-16. [PDF](/pdfs/smtd.202000349.pdf)
 
 - Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2020) *Mortierella elongata* stimulates aerial growth, seed production, and responses to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. Molecular Plant Microbe Interactions. *Submitted*.
 
-- Vande Pol N, **Liber JA**, Desirò A, Na H, Kennedy M, Barry K, Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020) Resolving the Mortierellaceae phylogeny through synthesis of Multi-Locus Sequence Typing (MLST) and phylogenomics. Fungal Diversity. *In Press*.
+- Vande Pol N, **Liber JA**, Desirò A, Na H, Kennedy M, Barry K, Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020) Resolving the Mortierellaceae phylogeny through synthesis of multi-gene phylogenetics and phylogenomics. Fungal Diversity. 2020. https://doi.org/10.1007/s13225-020-00455-5
 
 
 - Aime MC, Urbina H, **Liber JA**, Bonito G, and Oono R. (2018) [Two new endophytic Atractiellomycetes, <i>Atractidochium hillariae</i> and <i>Proceropycnis hameedii</i>.](https://www.tandfonline.com/doi/abs/10.1080/00275514.2018.1446650) Mycologia. 110(1): 136146 [PDF](/pdfs/Two new endophytic Atractiellomycetes Atractidochium hillariae and Proceropycnis hameedii.pdf)

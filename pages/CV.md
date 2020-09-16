@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_072720.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2020_09_16.pdf).
 
-Revised July 27, 2020
+Revised Sept 16, 2020
 
 **Julian A. Liber**
 
@@ -172,21 +172,21 @@ and plant anatomy.
 -   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
     Longley R, Bonito G. (2020) Leaf litter fungal communities reflect
     pre-senescent leaf communities in a temperate forest ecosystem.
-    Fungal Ecology. *Under Review*.
+    *Revision prior to resubmission*.
 
 -   **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) Harvesting microalgae
     for food and energy products. Small Methods. 2020(2000349): 1-16.
 
--   Vande Pol N, Liber JA, Matlock J, Bonito, G. (2020) *Mortierella
-    elongata* stimulates aerial growth, seed production, and responses
-    to auxin, ethylene, and reactive oxygen species in *Arabidopsis
-    thaliana*. Molecular Plant Microbe Interactions. *Submitted*.
+-   Vande Pol N, Liber JA, Matlock J, Bonito, G. (2020) *Mortierella elongata*
+    stimulates aerial growth, seed production, and responses
+    to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*.
+    Molecular Plant Microbe Interactions. *Submitted*.
 
 -   Vande Pol N, **Liber JA**, Desirò A, Na H, Kennedy M, Barry K,
     Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020)
     Resolving the Mortierellaceae phylogeny through synthesis of
-    Multi-Locus Sequence Typing (MLST) and phylogenomics. Fungal
-    Diversity. *In Press*.
+    multi-gene phylogenetics and phylogenomics. Fungal
+    Diversity. 2020. https://doi.org/10.1007/s13225-020-00455-5
 
 -   **Liber JA**, Bonito G. (2019) Do fungal endophytes facilitate
     colonization of bacterial endophytes in *Brachypodium distachyon*?
