@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2020_09_16.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2020_10_13.pdf).
 
-Revised Sept 16, 2020
+Revised Oct 13, 2020
 
 **Julian A. Liber**
 
@@ -69,7 +69,7 @@ Spring 2019
     presentation of results, lab maintenance duties, regular meetings
     with research group and professor.
 
-**iGEM Competition Team Member**, MSU, East Lansing, MI, Spring 2018 -
+**iGEM Competition Team Leader**, MSU, East Lansing, MI, Spring 2018 -
 Fall 2018
 
 -   Team project to transform a native bacterial endophyte of grasses to
@@ -137,7 +137,7 @@ Fall 2018
 **SYNERGISTIC ACTIVITIES/PROFESSIONAL IMPACT**
 
 **MSU Plant Biology Graduate Student Organization Outreach Committee**
-2019-2020
+2019-2021
 
 Organize and participate in events in the Lansing, MI area to promote
 interest in science and science literacy.
