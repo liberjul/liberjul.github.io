@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2020_10_13.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2020_10_27.pdf).
 
-Revised Oct 13, 2020
+Revised Oct 27, 2020
 
 **Julian A. Liber**
 
@@ -25,7 +25,8 @@ Masters of Science in Plant Biology – Current GPA: 4.00
 -   Coursework: Advanced Mycology, Evolutionary Biology, Special Topics
     in Mycology, Eukaryotic Cell Biology, Foundations of Plant Biology,
     Statistical Methods in Ecology and Evolution 1 & 2, Plant Genomics,
-    Teaching College Science
+    Teaching College Science, Population & Community Ecology, Integrative
+    Microbial Biology
 
 **Michigan State University**, East Lansing, MI Aug 2016 - May 2019
 
