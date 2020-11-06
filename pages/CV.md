@@ -178,7 +178,7 @@ and plant anatomy.
 -   **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) Harvesting microalgae
     for food and energy products. Small Methods. 2020(2000349): 1-16.
 
--   Vande Pol N, Liber JA, Matlock J, Bonito, G. (2020) *Mortierella elongata*
+-   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2020) *Mortierella elongata*
     stimulates aerial growth, seed production, and responses
     to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*.
     Molecular Plant Microbe Interactions. *Submitted*.
