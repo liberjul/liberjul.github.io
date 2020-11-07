@@ -8,7 +8,7 @@ permalink: projects/
 
 Bacteria and fungi occupy tissues of plants and can affect phenotypes of their host, often in response to stress. How these communities colonize plant roots with respect to other symbionts and plant disease state is not well explained. Using co-inoculation of bacteria and fungi on <i>Brachypodium distachyon</i>, and infection with barley yellow dwarf virus, we have worked to explore the factors influencing microbial community assembly.
 
-Collaborators: Natalie Golematis, Dr. Carolyn Malmstrom, Ellen Cole
+Collaborators: Natalie Golematis, Dr. Carolyn Malmstrom, Ellen Cole, Kota Nakasato
 
 ## Nematode vectoring of fungal endobacteria
 <img src="/images/Aphe_avenae_100x.jpg" alt="Aphelenchus avenae on Mortierella hyphae" width="400"/>

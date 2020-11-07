@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2020_10_27.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2020_11_06.pdf).
 
-Revised Oct 27, 2020
+Revised Nov 6, 2020
 
 **Julian A. Liber**
 
