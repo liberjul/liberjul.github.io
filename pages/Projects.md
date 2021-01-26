@@ -15,10 +15,10 @@ Collaborators: Natalie Golematis, Dr. Carolyn Malmstrom, Ellen Cole, Kota Nakasa
 
 Fungal endobacteria of the genus <i>Mycoavidus</i> show evidence of horizontal transfer between fungal lineages. However, the mechanism of this transmission is unknown. Fungivores in soil, such as <i>Aphelenchus</i> nematodes, may be a vector for these endobacteria. So far, we have detected enrichment of endobacterial DNA relative to fungal nuclear DNA in surface sterilized nematodes, compared to fungal tissue. Future work will include visualizing ingested endobacteria and testing transmission via feeding.
 
-Collaborators: Natalie Golematis
+Collaborators: Natalie Golematis, Ashley Barstow
 
 ## CONSTAXv2: Consensus-based taxonomy assignment for metagenomics
-![Classification performance of CONSTAXv2 classifier](/images/region_classification_part_cv.png)
+![Classification performance of CONSTAXv2 classifier](/images/speed_and_region_classification_part_cv.png)
 
 With increasing popularity of metagenomics barcoding studies, researchers require high-throughput taxonomic assignment tools to identify taxa or OTUs from NGS reads. CONSTAXv2 implements a consensus approach, using multiple classifiers (SINTAX, RDP, and UTAX or BLAST) to improve performance. Version 2 implements a new BLAST classification approach, with updated software requirements, an easier-to-use implementation, isolate mapping, and SILVA database compatibility.
 
