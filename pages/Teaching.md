@@ -14,3 +14,7 @@ I have taught or helped to teach courses over 4 semesters, which include both a 
 ### [Teaching Statement](/pdfs/Teaching_statement_LiberJulian.pdf)
 
 ### [Summary of Teaching Experience](/pdfs/Summary_of_Teaching_Experience_LiberJulian.pdf)
+
+## Lab Training Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbZWJCFwhQzSXB8wTZ3397DO8vCmPYjAG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
