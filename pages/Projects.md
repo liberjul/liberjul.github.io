@@ -23,6 +23,7 @@ Collaborators: Natalie Golematis, Ashley Barstow
 With increasing popularity of metagenomics barcoding studies, researchers require high-throughput taxonomic assignment tools to identify taxa or OTUs from NGS reads. CONSTAXv2 implements a consensus approach, using multiple classifiers (SINTAX, RDP, and UTAX or BLAST) to improve performance. Version 2 implements a new BLAST classification approach, with updated software requirements, an easier-to-use implementation, isolate mapping, and SILVA database compatibility.
 
 Tool Github and Tutorial: [https://github.com/liberjul/CONSTAXv2](https://github.com/liberjul/CONSTAXv2)
+Preprint: [CONSTAX2: Improved taxonomic classification of environmental DNA markers](https://www.biorxiv.org/content/10.1101/2021.02.15.430803v1)
 
 Collaborators: [Dr. Gian Maria Niccolo' Benucci](https://github.com/Gian77)
 
@@ -44,6 +45,8 @@ Collaborators: Alicja Okrasińska
 
 Mortierellaceae is a family of globally-distributed fungi often associated with soil, insects, or dung. This is a highly diverse group, with undescribed genera and species. We are working to culture new strains from globally-collected substrates, sequence and characterize these strains, and describe new taxa. Some strains in this group may also be useful for arachidonic acid production, microalgae harvesting, or plant symbiosis.
 
+Paper: [Resolving the Mortierellaceae phylogeny through synthesis of multi-gene phylogenetics and phylogenomics](https://link.springer.com/article/10.1007/s13225-020-00455-5)
+[PDF](/pdfs/Vandepol2020_Article_ResolvingTheMortierellaceaePhy.pdf)
 Collaborators: Dr. Natalie Vande Pol, Natalie Golematis, Audrey Peiker, Abigail Bryson
 
 ## Automated phenotyping of filamentous fungi
@@ -59,5 +62,8 @@ Collaborators: Natalie Golematis, Audrey Peiker
 <img src="/images/Algae_010.jpg" alt="Wild algae captured in Mortierella hyphae" width="600"/>
 
 Microalgae are highly productive photosynthetic organisms which have the potential to make valuable products for food, energy, and other industries. Some species of microalgae adhere to Mortierella hyphae which may be [exploited for harvesting microalgae](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-018-1172-2). We are working to undercover mechanisms of this interaction.
+
+Review paper: [Harvesting microalgae for food and energy products](https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202000349)
+[PDF](/pdfs/smtd.202000349.pdf)
 
 Collaborators: Dr. Zhi-Yan Du, Conor Bertucci

@@ -7,11 +7,13 @@ permalink: publications/
 
 ## Papers
 
+- **Liber JA**, Benucci GMN, Bonito G. (2021) [CONSTAX2:  Improved taxonomic classification of environmental DNA markers.](https://www.biorxiv.org/content/10.1101/2021.02.15.430803v1) BiorXiv. *Submitted to Bioinformatics* [PDF](https://www.biorxiv.org/content/10.1101/2021.02.15.430803v1.full.pdf)
+
 - **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2020) Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem. *Revision prior to resubmission*.
 
 - **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) [Harvesting microalgae for food and energy products](https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202000349). Small Methods. 2020(2000349): 1-16. [PDF](/pdfs/smtd.202000349.pdf)
 
-- Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2020) *Mortierella elongata* stimulates aerial growth, seed production, and responses to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. Molecular Plant Microbe Interactions. *Preparation for submission*.
+- Vande Pol N, **Liber JA**, Matlock J, Bonito G. (2020) *Mortierella elongata* stimulates aerial growth, seed production, and responses to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. Molecular Plant Microbe Interactions. *Preparation for submission*.
 
 - Vande Pol N, **Liber JA**, Desirò A, Na H, Kennedy M, Barry K, Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020) [Resolving the Mortierellaceae phylogeny through synthesis of multi-gene phylogenetics and phylogenomics.](https://link.springer.com/article/10.1007/s13225-020-00455-5) Fungal Diversity. 104: 267–289(2020). https://doi.org/10.1007/s13225-020-00455-5 [PDF](/pdfs/Vandepol2020_Article_ResolvingTheMortierellaceaePhy.pdf)
 
