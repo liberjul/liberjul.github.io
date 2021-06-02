@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2020_11_06.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2021_06_02.pdf).
 
-Revised Nov 6, 2020
+Revised June 2, 2021
 
 **Julian A. Liber**
 
@@ -16,9 +16,11 @@ Revised Nov 6, 2020
 East Lansing, MI 48825
 
 **EDUCATION**
+**Duke University**, Durham, NC	Begins Aug 2021
 
-**Michigan State University**, East Lansing, MI Aug 2018 - Anticipated
-May 2021
+Doctor of Philosophy in Biology
+
+**Michigan State University**, East Lansing, MI Aug 2018 - May 2021
 
 Masters of Science in Plant Biology – Current GPA: 4.00
 
@@ -27,6 +29,8 @@ Masters of Science in Plant Biology – Current GPA: 4.00
     Statistical Methods in Ecology and Evolution 1 & 2, Plant Genomics,
     Teaching College Science, Population & Community Ecology, Integrative
     Microbial Biology
+-   Thesis: Understanding the roles of interkingdom microbial interactions,
+    microbial traits, and host factors in the assembly of plant microbiomes.
 
 **Michigan State University**, East Lansing, MI Aug 2016 - May 2019
 
@@ -51,8 +55,13 @@ Summer 2017
 
 **RESEARCH EXPERIENCE**
 
+**Research Technician**, MSU, East Lansing, MI May 2021 - Present
+
+-   Bonito Lab - Plant-microbe interaction imaging, genomics of
+    Mycoplasma-related endobacteria, systematics of Mortierellaceae
+
 **Graduate Research Assistant**, MSU, East Lansing, MI Summer 2019 -
-Present
+Spring 2021
 
 -   Bonito Lab – Systematics of Mortierellaceae, fungal interactions
     with bacteria, algae, plants, nematodes, and plant viruses, computer
@@ -154,7 +163,7 @@ Integrated human practices including expert consultations, community
 surveys and public forums, and educational events at Impression 5
 Science Center and Lansing Public Library.
 
-**MSU Science Festival Presenter** 2017-2020
+**MSU Science Festival Presenter** 2017-2021
 
 Interactive presentations discussing photosynthesis and plant
 adaptations.
@@ -165,23 +174,26 @@ Hands-on activities exploring plant diversity, microbiomes, evolution,
 and plant anatomy.
 
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
+-   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
+    Longley R, Bonito G. (2021) Leaf litter fungal communities reflect
+    pre-senescent leaf communities in a temperate forest ecosystem.
+    *Submitted to PeerJ*.
+
+-   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2021) *Mortierella elongata*
+    stimulates aerial growth, seed production, and responses
+    to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*.
+    Molecular Plant Microbe Interactions. *Revision prior to resubmission*.
+
+-   **Liber JA**, Benucci GMN, Bonito G. (2021) CONSTAX2:  Improved taxonomic
+    classification of environmental DNA markers. *Accepted in Bioinformatics*.
+
 -   **Liber JA**, Golematis N, Cole E, Malmstrom C, Bonito G. (2020)
     Four-way interactions in the plant holobiont: How does plant viral
     disease alter fungal and bacterial community assembly? Mycological
     Society of America. Virtual, July. 22, 2020. Poster presentation.
 
--   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
-    Longley R, Bonito G. (2020) Leaf litter fungal communities reflect
-    pre-senescent leaf communities in a temperate forest ecosystem.
-    *Revision prior to resubmission*.
-
 -   **Liber JA**, Bryson A, Bonito, G, Du Z. (2020) Harvesting microalgae
     for food and energy products. Small Methods. 2020(2000349): 1-16.
-
--   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2020) *Mortierella elongata*
-    stimulates aerial growth, seed production, and responses
-    to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*.
-    Molecular Plant Microbe Interactions. *Submitted*.
 
 -   Vande Pol N, **Liber JA**, Desirò A, Na H, Kennedy M, Barry K,
     Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020)
