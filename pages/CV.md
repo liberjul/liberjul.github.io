@@ -16,6 +16,7 @@ Revised June 2, 2021
 East Lansing, MI 48825
 
 **EDUCATION**
+
 **Duke University**, Durham, NC	Begins Aug 2021
 
 Doctor of Philosophy in Biology
