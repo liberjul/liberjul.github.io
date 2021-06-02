@@ -175,6 +175,7 @@ Hands-on activities exploring plant diversity, microbiomes, evolution,
 and plant anatomy.
 
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
+
 -   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
     Longley R, Bonito G. (2021) Leaf litter fungal communities reflect
     pre-senescent leaf communities in a temperate forest ecosystem.
@@ -182,8 +183,7 @@ and plant anatomy.
 
 -   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2021) *Mortierella elongata*
     stimulates aerial growth, seed production, and responses
-    to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*.
-    Molecular Plant Microbe Interactions. *Revision prior to resubmission*.
+    to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. *Revision prior to resubmission*.
 
 -   **Liber JA**, Benucci GMN, Bonito G. (2021) CONSTAX2:  Improved taxonomic
     classification of environmental DNA markers. *Accepted in Bioinformatics*.
