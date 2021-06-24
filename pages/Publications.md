@@ -7,7 +7,7 @@ permalink: publications/
 
 ## Master's Thesis
 
-Understanding the roles of interkingdom microbial interactions, microbial traits, and host factors in the assembly of plant microbiomes. (2021) *Awaiting publication by ProQuest*.
+Understanding the roles of interkingdom microbial interactions, microbial traits, and host factors in the assembly of plant microbiomes. (2021) [PDF](/pdfs/Masters_Thesis_Liber_Julian_final.pdf)
 
 ## Papers
 
