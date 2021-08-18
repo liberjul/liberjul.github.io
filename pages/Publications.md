@@ -11,7 +11,7 @@ Understanding the roles of interkingdom microbial interactions, microbial traits
 
 ## Papers
 
-- **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2021) Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem. *Submitted to PeerJ*.
+- **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2021) Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem. *In revision*.
 
 - Vande Pol N, **Liber JA**, Matlock J, Bonito G. (2021) *Mortierella elongata* stimulates aerial growth, seed production, and responses to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. *Preparation for resubmission*.
 

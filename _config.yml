@@ -21,7 +21,7 @@
 title: Julian Liber
 email: liberjul@msu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Website for Julian A. Liber, MSc student in Plant Biology at Michigan State University and the Bonito Lab.
+  Website for Julian A. Liber, PhD Student in Biology at Duke University.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://liberjul.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LiberJulian

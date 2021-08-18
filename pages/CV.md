@@ -3,27 +3,27 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2021_06_02.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2021_08_18.pdf).
 
-Revised June 2, 2021
+Revised August 18, 2021
 
 **Julian A. Liber**
 
 \(567) 698-7495 | liberjul@msu.edu
 
-1066 Bogue St. Rm 286A
-
-East Lansing, MI 48825
+Room 137, Biological Sciences Building
+130 Science Drive, Duke University
+Durham, NC 27708
 
 **EDUCATION**
 
-**Duke University**, Durham, NC	Begins Aug 2021
+**Duke University**, Durham, NC	Aug 2021 - Expected May 2026
 
 Doctor of Philosophy in Biology
 
 **Michigan State University**, East Lansing, MI Aug 2018 - May 2021
 
-Masters of Science in Plant Biology – Current GPA: 4.00
+Master of Science in Plant Biology – Current GPA: 4.00
 
 -   Coursework: Advanced Mycology, Evolutionary Biology, Special Topics
     in Mycology, Eukaryotic Cell Biology, Foundations of Plant Biology,
@@ -35,7 +35,7 @@ Masters of Science in Plant Biology – Current GPA: 4.00
 
 **Michigan State University**, East Lansing, MI Aug 2016 - May 2019
 
-Bachelors of Science in Plant Biology - GPA: 3.99
+Bachelor of Science in Plant Biology - GPA: 3.99
 
 -   Minor: Computational Mathematics, Science, and Engineering
 
@@ -56,7 +56,7 @@ Summer 2017
 
 **RESEARCH EXPERIENCE**
 
-**Research Technician**, MSU, East Lansing, MI May 2021 - Present
+**Research Technician**, MSU, East Lansing, MI May 2021 - Aug 2021
 
 -   Bonito Lab - Plant-microbe interaction imaging, genomics of
     Mycoplasma-related endobacteria, systematics of Mortierellaceae
@@ -179,7 +179,7 @@ and plant anatomy.
 -   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
     Longley R, Bonito G. (2021) Leaf litter fungal communities reflect
     pre-senescent leaf communities in a temperate forest ecosystem.
-    *Submitted to PeerJ*.
+    *In revision*.
 
 -   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2021) *Mortierella elongata*
     stimulates aerial growth, seed production, and responses
