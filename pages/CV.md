@@ -204,6 +204,10 @@ and plant anatomy.
     stimulates aerial growth, seed production, and responses
     to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. *In review*.
 
+-   **Liber JA**, Benucci GMN, Bonito G. (2021) CONSTAXv2: a software for accurate taxonomic
+    classification of environmental DNA markers. Mycological Society of America & Botanical Society
+    of America (Botany 2021). Virtual. July 20, 2021. Poster presentation.
+
 -   **Liber JA**, Benucci GMN, Bonito G. (2021) CONSTAX2:  Improved taxonomic
     classification of environmental DNA markers. Bioinformatics. 37(21): 3941-3943.
 
