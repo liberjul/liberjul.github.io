@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2021_08_18.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2021_11_16.pdf).
 
-Revised August 18, 2021
+Revised November 11, 2021
 
 **Julian A. Liber**
 
@@ -55,6 +55,10 @@ Summer 2017
 -   Field courses in Evolution and Ecology
 
 **RESEARCH EXPERIENCE**
+
+**Graduate Research Assistant**, Duke University, Durham, NC Aug 2021 - Present
+
+- He Lab – Microbiota-host interactions in the phyllosphere.
 
 **Research Technician**, MSU, East Lansing, MI May 2021 - Aug 2021
 
@@ -128,6 +132,8 @@ Fall 2018
 
 **AWARDS**
 
+- Mycological Society of America, Best Graduate Student Poster Summer 2021
+
 -   Summa Cum Laude, MSU Spring 2019
 
 -   Department of Plant Biology Outstanding Undergraduate Award Spring
@@ -147,8 +153,21 @@ Fall 2018
 
 **SYNERGISTIC ACTIVITIES/PROFESSIONAL IMPACT**
 
-**MSU Plant Biology Graduate Student Organization Outreach Committee**
-2019-2021
+**Duke University Campus Sustainability Committee** 2021 – 2022
+
+Recommend, champion, and communicate sustainability policies to administration and graduate
+student constituencies.
+
+**Duke Biology Rep. to Graduate and Professional Student Government** 2021 – 2022
+
+Read, discuss, and vote on legislation, share information with department, bring student concerns
+to administration.
+
+**Duke Biology Organisms and Evolution Seminar Czar** 2021 – 2022
+
+Notify department of seminar, coordinate meeting with speaker, host seminar event.
+
+**MSU Plant Biology Graduate Student Organization Outreach Committee** 2019-2021
 
 Organize and participate in events in the Lansing, MI area to promote
 interest in science and science literacy.
@@ -179,14 +198,14 @@ and plant anatomy.
 -   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
     Longley R, Bonito G. (2021) Leaf litter fungal communities reflect
     pre-senescent leaf communities in a temperate forest ecosystem.
-    *In revision*.
+    *In review*.
 
 -   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2021) *Mortierella elongata*
     stimulates aerial growth, seed production, and responses
-    to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. *Revision prior to resubmission*.
+    to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. *In review*.
 
 -   **Liber JA**, Benucci GMN, Bonito G. (2021) CONSTAX2:  Improved taxonomic
-    classification of environmental DNA markers. *Accepted in Bioinformatics*.
+    classification of environmental DNA markers. Bioinformatics. 37(21): 3941-3943.
 
 -   **Liber JA**, Golematis N, Cole E, Malmstrom C, Bonito G. (2020)
     Four-way interactions in the plant holobiont: How does plant viral
@@ -200,7 +219,7 @@ and plant anatomy.
     Grigoriev IV, Miller AN, O’Donnell K, Stajich JE, Bonito G. (2020)
     Resolving the Mortierellaceae phylogeny through synthesis of
     multi-gene phylogenetics and phylogenomics. Fungal
-    Diversity. 2020. https://doi.org/10.1007/s13225-020-00455-5
+    Diversity. 104(1): 267-289. https://doi.org/10.1007/s13225-020-00455-5
 
 -   **Liber JA**, Bonito G. (2019) Do fungal endophytes facilitate
     colonization of bacterial endophytes in *Brachypodium distachyon*?
