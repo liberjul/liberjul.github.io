@@ -3,6 +3,19 @@ layout: page
 title: Projects
 permalink: projects/
 ---
+## Effects of immune-deficient genotypes of *Arabidopsis thaliana* on eukaryotic phyllosphere microbiomes
+<img src="/images/Arabidopsis_mbbc_example.JPG" alt="A mutant Arabidopsis plant with missing receptors of pathogens" width="300"/>
+
+Several mutants of *Arabidopsis thaliana* which are missing receptors for recognizing pathogens can develop a harmful assembly of microorganisms in their leaves, called dysbiosis. We are interested in the role fungi may play in the process of dysbiosis.
+
+
+## Associations of *Linnemannia elongata* with Arabidopsis thalina roots
+<img src="/images/Col0_NVP64-_day25_wga_cf_60x_3d_slice_w_scale_003_merge_20um.png" alt="Blue Linnemania hyphae occupying spaces in Arabidopsis roots, shown by red cell walls" width="300"/>
+
+Many fungi and close associations with host plants, and alter their physiology in ways that affect their fitness and agronomic traits. We examined the role of the abundant soil fungus *Linnemannia elongata* and its associated endohyphal bacteria on the growth of the model plant *Arabidopsis thaliana*.
+
+Collaborators: Dr. Natalie Vande Pol
+
 ## Interactions of bacterial and fungal endophytes with plant disease
 <img src="/images/Rhizopus_w_roots.jpg" alt="Rhizopus hyphae and fluorescent Enterobacter on Brachypodium roots" width="300"/>
 
@@ -11,7 +24,7 @@ Bacteria and fungi occupy tissues of plants and can affect phenotypes of their h
 Collaborators: Natalie Golematis, Dr. Carolyn Malmstrom, Ellen Cole, Kota Nakasato
 
 ## Nematode vectoring of fungal endobacteria
-<img src="/images/Aphe_avenae_100x.jpg" alt="Aphelenchus avenae on Mortierella hyphae" width="400"/>
+<img src="/images/Aphe_avenae_100x.jpg" alt="Aphelenchus avenae (a nematode) on Mortierella hyphae" width="400"/>
 
 Fungal endobacteria of the genus <i>Mycoavidus</i> show evidence of horizontal transfer between fungal lineages. However, the mechanism of this transmission is unknown. Fungivores in soil, such as <i>Aphelenchus</i> nematodes, may be a vector for these endobacteria. So far, we have detected enrichment of endobacterial DNA relative to fungal nuclear DNA in surface sterilized nematodes, compared to fungal tissue. Future work will include visualizing ingested endobacteria and testing transmission via feeding.
 
