@@ -4,25 +4,25 @@ title: Projects
 permalink: projects/
 ---
 ## Engineering phyllosphere yeasts
-<img src="/images/JL233-8_YPDA_001.JPG" alt="A plant with 6 yeast strains streaked ono it. They vary in color, texture, and colony shape" width="300"/>
+<img src="/images/JL233-8_YPDA_001.JPG" alt="A plant with 6 yeast strains streaked onto it. They vary in color, texture, and colony shape" width="500"/>
 
 Yeasts, of many different genera, are abundant and persistent members of the microbial communities on plant leaves. Genetic manipulation of yeasts may be useful to inform the fundemental processes involved in community assembly and host-microbe interactions, and may be leveraged to improve plant resiliency under stress.
 
 ## Effects of immune-deficient genotypes of *Arabidopsis thaliana* on eukaryotic phyllosphere microbiomes
-<img src="/images/Arabidopsis_mbbc_example.JPG" alt="A mutant Arabidopsis plant with missing receptors of pathogens" width="300"/>
+<img src="/images/Arabidopsis_mbbc_example.JPG" alt="A mutant Arabidopsis plant with missing receptors of pathogens" width="500"/>
 
 Several mutants of *Arabidopsis thaliana* which are missing receptors for recognizing pathogens can develop a harmful assembly of microorganisms in their leaves, called dysbiosis. We are interested in the role fungi may play in the process of dysbiosis.
 
 
 ## Associations of *Linnemannia elongata* with Arabidopsis thalina roots
-<img src="/images/Col0_NVP64-_day25_wga_cf_60x_3d_slice_w_scale_003_merge_20um.png" alt="Blue Linnemania hyphae occupying spaces in Arabidopsis roots, shown by red cell walls" width="300"/>
+<img src="/images/Col0_NVP64-_day25_wga_cf_60x_3d_slice_w_scale_003_merge_20um.png" alt="Blue Linnemania hyphae occupying spaces in Arabidopsis roots, shown by red cell walls" width="500"/>
 
 Many fungi and close associations with host plants, and alter their physiology in ways that affect their fitness and agronomic traits. We examined the role of the abundant soil fungus *Linnemannia elongata* and its associated endohyphal bacteria on the growth of the model plant *Arabidopsis thaliana*.
 
 Collaborators: Dr. Natalie Vande Pol
 
 ## Interactions of bacterial and fungal endophytes with plant disease
-<img src="/images/Rhizopus_w_roots.jpg" alt="Rhizopus hyphae and fluorescent Enterobacter on Brachypodium roots" width="300"/>
+<img src="/images/Rhizopus_w_roots.jpg" alt="Rhizopus hyphae and fluorescent Enterobacter on Brachypodium roots" width="500"/>
 
 Bacteria and fungi occupy tissues of plants and can affect phenotypes of their host, often in response to stress. How these communities colonize plant roots with respect to other symbionts and plant disease state is not well explained. Using co-inoculation of bacteria and fungi on <i>Brachypodium distachyon</i>, and infection with barley yellow dwarf virus, we have worked to explore the factors influencing microbial community assembly.
 
