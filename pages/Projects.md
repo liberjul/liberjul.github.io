@@ -4,7 +4,7 @@ title: Projects
 permalink: projects/
 ---
 ## Engineering phyllosphere yeasts
-<img src="/images/JL233-8_YPDA_001" alt="A plant with 6 yeast strains streaked ono it. They vary in color, texture, and colony shape="300"/>
+<img src="/images/JL233-8_YPDA_001.JPG" alt="A plant with 6 yeast strains streaked ono it. They vary in color, texture, and colony shape" width="300"/>
 
 Yeasts, of many different genera, are abundant and persistent members of the microbial communities on plant leaves. Genetic manipulation of yeasts may be useful to inform the fundemental processes involved in community assembly and host-microbe interactions, and may be leveraged to improve plant resiliency under stress.
 
