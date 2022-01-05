@@ -3,13 +3,13 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2021_11_16.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2022_01_05.pdf).
 
-Revised November 11, 2021
+Revised January 5, 2022
 
 **Julian A. Liber**
 
-\(567) 698-7495 | liberjul@msu.edu
+\(567) 698-7495 | julian.liber@duke.edu
 
 Room 137, Biological Sciences Building
 130 Science Drive, Duke University
@@ -196,9 +196,9 @@ and plant anatomy.
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
 
 -   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
-    Longley R, Bonito G. (2021) Leaf litter fungal communities reflect
+    Longley R, Bonito G. (2022) Leaf litter fungal communities reflect
     pre-senescent leaf communities in a temperate forest ecosystem.
-    *In review*.
+    PeerJ. *Accepted*.
 
 -   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2021) *Mortierella elongata*
     stimulates aerial growth, seed production, and responses

@@ -11,7 +11,7 @@ Understanding the roles of interkingdom microbial interactions, microbial traits
 
 ## Papers
 
-- **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2021) Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem. *In review*.
+- **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2022) Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem. PeerJ. *Accepted*.
 
 - Vande Pol N, **Liber JA**, Matlock J, Bonito G. (2021) *Mortierella elongata* stimulates aerial growth, seed production, and responses to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. *In review*.
 
@@ -32,7 +32,7 @@ Understanding the roles of interkingdom microbial interactions, microbial traits
 
 -   **Liber JA**, Benucci GMN, Bonito G. (2021) [CONSTAXv2: a software for accurate taxonomic classification of environmental DNA markers.](/pdfs/MSA_BSA_poster_2021.pdf) Mycological Society of America & Botanical Society
     of America (Botany 2021). Virtual. July 20, 2021. Poster presentation.
-    
+
 -   **Liber JA**, Golematis N, Cole E, Malmstrom C, Bonito G. (2020) [Four-way interactions in the plant holobiont: How does plant viral disease alter fungal and bacterial community assembly?](/pdfs/MSA_poster_2020.pdf) Mycological Society of America. Virtual, July 22, 2020. Poster presentation.
 
 - **Liber JA**, Bonito G. (2019) [Do fungal endophytes facilitate colonization of bacterial endophytes in <i>Brachypodium distachyon</i>?](/pdfs/Julian_MSA2019_poster.pdf) Mycological Society of America. University of Minnesota, Minneapolis, Minnesota, Aug. 13, 2019. Poster presentation.
