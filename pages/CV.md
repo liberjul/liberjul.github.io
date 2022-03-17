@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2022_01_05.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2022_03_17.pdf).
 
-Revised January 5, 2022
+Revised March 17, 2022
 
 **Julian A. Liber**
 
@@ -161,7 +161,7 @@ student constituencies.
 **Duke Biology Rep. to Graduate and Professional Student Government** 2021 – 2022
 
 Read, discuss, and vote on legislation, share information with department, bring student concerns
-to administration.
+to administration. Member of Climate Crisis Committee.
 
 **Duke Biology Organisms and Evolution Seminar Czar** 2021 – 2022
 
@@ -195,14 +195,14 @@ and plant anatomy.
 
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
 
+-   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2022) *Linnemannia elongata* (Mortierellaceae)
+stimulates Arabidopsis thaliana aerial growth and responses to auxin, ethylene, and reactive oxygen
+species. PLOS ONE. *Accepted*.
+
 -   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
     Longley R, Bonito G. (2022) Leaf litter fungal communities reflect
     pre-senescent leaf communities in a temperate forest ecosystem.
-    PeerJ. *Accepted*.
-
--   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2021) *Mortierella elongata*
-    stimulates aerial growth, seed production, and responses
-    to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. *In review*.
+    PeerJ. 10(e12701)
 
 -   **Liber JA**, Benucci GMN, Bonito G. (2021) CONSTAXv2: a software for accurate taxonomic
     classification of environmental DNA markers. Mycological Society of America & Botanical Society

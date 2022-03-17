@@ -11,9 +11,13 @@ Understanding the roles of interkingdom microbial interactions, microbial traits
 
 ## Papers
 
-- **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2022) Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem. PeerJ. *Accepted*.
+- Vande Pol N, **Liber JA**, Matlock J, Bonito G. (2022) *Linnemannia elongata* (Mortierellaceae)
+stimulates Arabidopsis thaliana aerial growth and responses to auxin, ethylene, and reactive oxygen
+species. PLOS ONE. *Accepted*. [Preprint](https://www.biorxiv.org/content/10.1101/2021.12.14.472664v1)
 
-- Vande Pol N, **Liber JA**, Matlock J, Bonito G. (2021) *Mortierella elongata* stimulates aerial growth, seed production, and responses to auxin, ethylene, and reactive oxygen species in *Arabidopsis thaliana*. *In review*.
+
+- **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2022) [Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem.](https://peerj.com/articles/12701/) PeerJ. 10(e12701)
+
 
 - **Liber JA**, Benucci GMN, Bonito G. (2021) [CONSTAX2:  Improved taxonomic classification of environmental DNA markers.](https://academic.oup.com/bioinformatics/article/37/21/3941/6271412) Bioinformatics. 37(21): 3941-3943. [preprint PDF](https://www.biorxiv.org/content/10.1101/2021.02.15.430803v1.full.pdf)
 
