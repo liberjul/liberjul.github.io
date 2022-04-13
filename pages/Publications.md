@@ -11,9 +11,9 @@ Understanding the roles of interkingdom microbial interactions, microbial traits
 
 ## Papers
 
-- Vande Pol N, **Liber JA**, Matlock J, Bonito G. (2022) *Linnemannia elongata* (Mortierellaceae)
-stimulates Arabidopsis thaliana aerial growth and responses to auxin, ethylene, and reactive oxygen
-species. PLOS ONE. *Accepted*. [Preprint](https://www.biorxiv.org/content/10.1101/2021.12.14.472664v1)
+- Vande Pol N, **Liber JA**, Yocca A, Matlock J, Edger P, Bonito G. (2022) [*Linnemannia elongata* (Mortierellaceae)
+stimulates *Arabidopsis thaliana* aerial growth and responses to auxin, ethylene, and reactive oxygen
+species](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261908). PLOS ONE. [PDF](../pdfs/journal.pone.0261908.pdf)
 
 
 - **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2022) [Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem.](https://peerj.com/articles/12701/) PeerJ. 10(e12701)
