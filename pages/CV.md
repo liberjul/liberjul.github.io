@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2022_03_17.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2022_05_18.pdf).
 
-Revised March 17, 2022
+Revised May 18, 2022
 
 **Julian A. Liber**
 
@@ -153,17 +153,25 @@ Fall 2018
 
 **SYNERGISTIC ACTIVITIES/PROFESSIONAL IMPACT**
 
-**Duke University Campus Sustainability Committee** 2021 – 2022
+**Duke University Graduate and Professional Student Government** 2021 – 2022
 
-Recommend, champion, and communicate sustainability policies to administration and graduate
-student constituencies.
+- _Secretariat Rep. for Trinity College of Arts & Sciences (Natural Science)_ May – Oct 2022
 
-**Duke Biology Rep. to Graduate and Professional Student Government** 2021 – 2022
+    - Develop and set legislative agenda, communicate with Natural Science grad student constituency and represent their interests, provide checks and oversight of Executive Committee, organize and run elections.
 
-Read, discuss, and vote on legislation, share information with department, bring student concerns
-to administration. Member of Climate Crisis Committee.
+- _Chair of Doctoral Student Affairs Committee_ May – Oct 2022
 
-**Duke Biology Organisms and Evolution Seminar Czar** 2021 – 2022
+    - Organize and lead advocacy on issues impacting doctoral students including cost of living, stipends, and leave policies.
+
+- _Representative to University Campus Sustainability Committee_ 2021 – 2022
+
+    - Recommend, champion, and communicate sustainability policies to administration and graduate student constituencies
+
+- _General Assembly Rep. for Department of Biology_ Sept 2021 – May 2022
+
+    - Read, discuss, and vote on legislation, share information with department, bring student concerns to administration. Member of Climate Crisis Committee.
+
+**Duke Biology Organisms and Evolution Seminar Czar** Fall 2021
 
 Notify department of seminar, coordinate meeting with speaker, host seminar event.
 
@@ -196,8 +204,8 @@ and plant anatomy.
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
 
 -   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2022) *Linnemannia elongata* (Mortierellaceae)
-stimulates Arabidopsis thaliana aerial growth and responses to auxin, ethylene, and reactive oxygen
-species. PLOS ONE. *Accepted*.
+    stimulates Arabidopsis thaliana aerial growth and responses to auxin, ethylene, and reactive
+    oxygen species. PloS one. 17(4): e0261908.
 
 -   **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J,
     Longley R, Bonito G. (2022) Leaf litter fungal communities reflect
