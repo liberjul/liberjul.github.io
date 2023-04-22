@@ -11,9 +11,11 @@ Understanding the roles of interkingdom microbial interactions, microbial traits
 
 ## Papers
 
-- Vande Pol N, **Liber JA**, Yocca A, Matlock J, Edger P, Bonito G. (2022) [*Linnemannia elongata* (Mortierellaceae)
-stimulates *Arabidopsis thaliana* aerial growth and responses to auxin, ethylene, and reactive oxygen
-species](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261908). PloS one. 17(4): e0261908. [PDF](../pdfs/journal.pone.0261908.pdf)
+-   Longley R, Robinson A, **Liber JA**, Bryson AE, Morales, DP, LaButti K, Riley R, Mondo SJ, Kuo A, Yoshinaga Y, Daum C, Barry K, Grigoriev IV, Desirò A, Chain PSG, Bonito G. (2023) Comparative Genomics of Mollicutes-related Endobacteria Supports a Late Invasion into Fungi. In review.
+
+-   Sohrabi R, Paasch BC, **Liber JA**, He SY (2023) [Phyllosphere Microbiome](https://www.annualreviews.org/doi/pdf/10.1146/annurev-arplant-102820-032704). Annual Review of Plant Biology. 74. In press.
+
+- Vande Pol N, **Liber JA**, Yocca A, Matlock J, Edger P, Bonito G. (2022) [*Linnemannia elongata* (Mortierellaceae) stimulates *Arabidopsis thaliana* aerial growth and responses to auxin, ethylene, and reactive oxygen species](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261908). PloS one. 17(4): e0261908. [PDF](../pdfs/journal.pone.0261908.pdf)
 
 
 - **Liber JA**, Minier DH, Stouffer-Hopkins A, Van Wyk J, Longley R, Bonito G. (2022) [Leaf litter fungal communities reflect pre-senescent leaf communities in a temperate forest ecosystem.](https://peerj.com/articles/12701/) PeerJ. 10(e12701).
@@ -34,8 +36,9 @@ species](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.02619
 
 ## Presentations
 
--   **Liber JA**, Benucci GMN, Bonito G. (2021) [CONSTAXv2: a software for accurate taxonomic classification of environmental DNA markers.](/pdfs/MSA_BSA_poster_2021.pdf) Mycological Society of America & Botanical Society
-    of America (Botany 2021). Virtual. July 20, 2021. Poster presentation.
+-   **Liber JA**, He SY (2022) [Probing phylloplane microbial community physiology and dynamics in situ using whole-cell yeast biosensors](./pdfs/2022_07_05_MSA_poster.pdf). Mycological Society of America. University of Florida, Gainesville, Florida. July 12, 2022. Poster presentation.
+
+-   **Liber JA**, Benucci GMN, Bonito G. (2021) [CONSTAXv2: a software for accurate taxonomic classification of environmental DNA markers.](/pdfs/MSA_BSA_poster_2021.pdf) Mycological Society of America & Botanical Society of America (Botany 2021). Virtual. July 20, 2021. Poster presentation.
 
 -   **Liber JA**, Golematis N, Cole E, Malmstrom C, Bonito G. (2020) [Four-way interactions in the plant holobiont: How does plant viral disease alter fungal and bacterial community assembly?](/pdfs/MSA_poster_2020.pdf) Mycological Society of America. Virtual, July 22, 2020. Poster presentation.
 

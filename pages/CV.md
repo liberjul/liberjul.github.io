@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2022_05_18.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2023_04_22.pdf).
 
-Revised May 18, 2022
+Revised April 22, 2023
 
 **Julian A. Liber**
 
@@ -19,7 +19,14 @@ Durham, NC 27708
 
 **Duke University**, Durham, NC	Aug 2021 - Expected May 2026
 
-Doctor of Philosophy in Biology
+Doctor of Philosophy in Biology – Current GPA: 4.00
+-   Coursework: Systematic Biology, Microbial Pathogenesis, Plants and Climate Change,
+    Science Communication, Biophysics Methods, Microbial Genetics,
+    Exploring the Microbiome
+    
+-   Proposed dissertation topic: Biosensor-based probing of the phyllosphere micro-
+    environment to understand microbiome dynamics.
+
 
 **Michigan State University**, East Lansing, MI Aug 2018 - May 2021
 
@@ -30,6 +37,7 @@ Master of Science in Plant Biology – Current GPA: 4.00
     Statistical Methods in Ecology and Evolution 1 & 2, Plant Genomics,
     Teaching College Science, Population & Community Ecology, Integrative
     Microbial Biology
+
 -   Thesis: Understanding the roles of interkingdom microbial interactions,
     microbial traits, and host factors in the assembly of plant microbiomes.
 
@@ -153,13 +161,17 @@ Fall 2018
 
 **SYNERGISTIC ACTIVITIES/PROFESSIONAL IMPACT**
 
-**Duke University Graduate and Professional Student Government** 2021 – 2022
+**Duke University Graduate and Professional Student Government** 2021 – 2024
 
-- _Secretariat Rep. for Trinity College of Arts & Sciences (Natural Science)_ May – Oct 2022
+- _Director of Academic Affairs_ May 2023 – May 2024
+
+    - Assess issues pertaining to courses, teaching, diversity, harassment, discrimination, and due process and work to resolve them by working with university administration. Management of GPSG Lawyer Assistance Program.
+
+- _Secretariat Rep. for Trinity College of Arts & Sciences (Natural Science)_ May 2022 – Present
 
     - Develop and set legislative agenda, communicate with Natural Science grad student constituency and represent their interests, provide checks and oversight of Executive Committee, organize and run elections.
 
-- _Chair of Doctoral Student Affairs Committee_ May – Oct 2022
+- _Chair of Doctoral Student Affairs Committee_ May 2022 – Present
 
     - Organize and lead advocacy on issues impacting doctoral students including cost of living, stipends, and leave policies.
 
@@ -202,6 +214,18 @@ Hands-on activities exploring plant diversity, microbiomes, evolution,
 and plant anatomy.
 
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
+
+-   Longley R, Robinson A, **Liber JA**, Bryson AE, Morales, DP, LaButti K, Riley R, Mondo
+    SJ, Kuo A, Yoshinaga Y, Daum C, Barry K, Grigoriev IV, Desirò A, Chain PSG, Bonito G.
+    (2023) Comparative Genomics of Mollicutes-related Endobacteria Supports a Late Invasion
+    into Fungi. In review.
+
+-   Sohrabi R, Paasch BC, **Liber JA**, He SY (2023) Phyllosphere Microbiome. Annual Review
+    of Plant Biology. 74. In press.
+
+-   **Liber JA**, He SY (2022) Probing phylloplane microbial community physiology and
+    dynamics in situ using whole-cell yeast biosensors. Mycological Society of America.
+    University of Florida, Gainesville, Florida. July 12, 2022. Poster presentation.
 
 -   Vande Pol N, **Liber JA**, Matlock J, Bonito, G. (2022) *Linnemannia elongata* (Mortierellaceae)
     stimulates Arabidopsis thaliana aerial growth and responses to auxin, ethylene, and reactive
