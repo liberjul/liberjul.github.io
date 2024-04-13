@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2023_04_22.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_long_2024_04_13.pdf).
 
-Revised April 22, 2023
+Revised April 13, 2024
 
 **Julian A. Liber**
 
@@ -24,8 +24,8 @@ Doctor of Philosophy in Biology – Current GPA: 4.00
     Science Communication, Biophysics Methods, Microbial Genetics,
     Exploring the Microbiome
     
--   Proposed dissertation topic: Biosensor-based probing of the phyllosphere micro-
-    environment to understand microbiome dynamics.
+-   Proposed dissertation topic: The roles of microbial traits and microenvironments
+	in shaping microbiome assembly in the phyllosphere.
 
 
 **Michigan State University**, East Lansing, MI Aug 2018 - May 2021
@@ -117,6 +117,25 @@ Fall 2018
     and in groups, scheduling
 
 **TEACHING EXPERIENCE**
+
+**Teaching Assistant**, Duke, Durham, NC Spring 2023
+
+-   Course: BIOL 557L – Microbial Ecology
+
+-   Responsibilities – Laboratory protocol development and presentation,
+	lab safety compliance, microbiology material preparation,
+	bioinformatic processing and analysis of sequencing data,
+	identification of plants (in field) and microorganisms (in laboratory),
+	meta-amplicon sequencing.
+
+**Teaching Assistant**, Duke, Durham, NC Fall 2022
+
+-	Course: BIOL 202L – Gateway to Biology: Genetics and Evolution
+
+-	Responsibilities – Course material development and presentation,
+	lab safety compliance, grading, hands-on explanation of animal and
+	plant anatomy, genetics problem solving.
+
 
 **Teaching Assistant**, MSU, East Lansing, MI Fall 2019
 
@@ -218,10 +237,14 @@ and plant anatomy.
 -   Longley R, Robinson A, **Liber JA**, Bryson AE, Morales, DP, LaButti K, Riley R, Mondo
     SJ, Kuo A, Yoshinaga Y, Daum C, Barry K, Grigoriev IV, Desirò A, Chain PSG, Bonito G.
     (2023) Comparative Genomics of Mollicutes-related Endobacteria Supports a Late Invasion
-    into Fungi. In review.
+    into Fungi. Communications Biology. 6(1): 1-13.
+	
+-	**Liber JA**, He SY (2023) Probing the leaf micro-environment with whole cell yeast 
+	biosensors to establish principles of microbiome coexistence. 4th Plant Microbiome Symposium.
+	Universidad San Fransisco de Quito. Quito, Ecuador. Aug. 4, 2023. Contributed talk.
 
 -   Sohrabi R, Paasch BC, **Liber JA**, He SY (2023) Phyllosphere Microbiome. Annual Review
-    of Plant Biology. 74. In press.
+    of Plant Biology. 74(1).
 
 -   **Liber JA**, He SY (2022) Probing phylloplane microbial community physiology and
     dynamics in situ using whole-cell yeast biosensors. Mycological Society of America.
