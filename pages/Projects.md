@@ -3,6 +3,15 @@ layout: page
 title: Projects
 permalink: projects/
 ---
+## Genetics of phyllosphere commensalism in _Aureobasidium pullulans_
+    
+<p float="left">
+    <img src="/images/2023_10_16_Apul_YPD_composite.png" alt="A dilution series of pinkish yeast colonies on a plate, for 10 different isolates. These isolates vary in colony shape and texture." height="500"/>
+    <img src="/images/JL259_4492_T5_4_f2.png" alt="A confocal microscope image of yeast cells expressing a fluorescent protein which localizes to their nuclei. These cells vary in size and shape, and many are multi-nucleate." height="500"/>
+</p>
+
+_Aureobasidium pullulans_ is an extremely common member of the plant microbiome, and has characterisitics such as frequent recombination, significant phenotypic variation, ease of isolation and identification, and genetic tractability which makes it an ideal organism to study the ecology and physiology of eukaryotic microbes on healthy plants. I am working with collaborators to develop a genome-sequenced collection of _A. pullulans_ isolates for conducting GWAS and other genetic studies of traits important to plant colonization and other interesting aspects of the yeast, such as nuclear division and budding processes.
+
 ## Engineering phyllosphere yeasts
 <img src="/images/JL233-8_YPDA_001.JPG" alt="A plant with 6 yeast strains streaked onto it. They vary in color, texture, and colony shape" width="500"/>
 
