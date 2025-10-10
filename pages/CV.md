@@ -3,9 +3,9 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-PDF CV available [here](/pdfs/CV_Liber_Julian_long_2024_04_13.pdf).
+PDF CV available [here](/pdfs/CV_Liber_Julian_short_2025_10_09_2pg.pdf).
 
-Revised April 13, 2024
+Revised October 9, 2025
 
 **Julian A. Liber**
 
@@ -22,7 +22,7 @@ Durham, NC 27708
 Doctor of Philosophy in Biology – Current GPA: 4.00
 -   Coursework: Systematic Biology, Microbial Pathogenesis, Plants and Climate Change,
     Science Communication, Biophysics Methods, Microbial Genetics,
-    Exploring the Microbiome
+    Exploring the Microbiome, Business of Science
     
 -   Proposed dissertation topic: The roles of microbial traits and microenvironments
 	in shaping microbiome assembly in the phyllosphere.
@@ -157,22 +157,22 @@ Fall 2018
     instructors, aid students in help room, software troubleshooting,
     discussion of education pedagogy
 
-**AWARDS**
+**SELECTED AWARDS**
 
-- Mycological Society of America, Best Graduate Student Poster Summer 2021
+-	TriCEM - Duke Microbiome Center Graduate Award in Evolutionary Medicine - June 2024-2025
 
--   Summa Cum Laude, MSU Spring 2019
+-	Mycological Society of America, Best Graduate Student Poster - Summer 2021
 
--   Department of Plant Biology Outstanding Undergraduate Award Spring
-    2019
+-   Summa Cum Laude, MSU - Spring 2019
+
+-   Department of Plant Biology Outstanding Undergraduate Award - Spring 2019
 
 -   Department of Computational Mathematics, Science, and Engineering
-    Outstanding Learning Assistant Spring 2019
+    Outstanding Learning Assistant - Spring 2019
 
--   University Undergraduate Research and Arts Forum 1st Place Poster
-    Spring 2018
+-   University Undergraduate Research and Arts Forum 1st Place Poster - Spring 2018
 
--   Dean’s List Fall 2016 - Spring 2019
+-   Dean’s List - Fall 2016 - Spring 2019
 
 -   Scholarships - Alumni Distinguish Scholarship Finalist, National
     Merit Finalist, Norman A. Good Scholarship Award, College of Natural
@@ -233,6 +233,13 @@ Hands-on activities exploring plant diversity, microbiomes, evolution,
 and plant anatomy.
 
 **PUBLICATIONS/PRESENTATIONS/FEATURES**
+
+-	Bian Z, Wilhoit K, **Liber JA**, Peer A, Xu Z, Magwene PM, Sun S, Heitman J. (2025) Meiosis-specific
+    genes play roles in ploidy reduction in _Cryptococcus neoformans_ titan cells. bioRxiv.
+ 	2025.09. 16.676405
+
+-	Guo YS, **Liber JA**, Morrell-Falvey JL, Bonito G, Retterer ST. (2024) Monitoring the
+    impact of confinement on hyphal penetration and fungal behavior. PloS one. 19(12): e0312855
 
 -   Longley R, Robinson A, **Liber JA**, Bryson AE, Morales, DP, LaButti K, Riley R, Mondo
     SJ, Kuo A, Yoshinaga Y, Daum C, Barry K, Grigoriev IV, Desirò A, Chain PSG, Bonito G.
